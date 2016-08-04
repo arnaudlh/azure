@@ -20,20 +20,17 @@
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
     },
-    "osType": {
-      "value": "Linux"
-    },
     "vmSize": {
-      "value": "Standard_D2"
+      "value": "Standard_A4"
     },
     "newOrExistingVnet": {
       "value": "new"
     },
     "newOrExistingVnetName": {
-      "value": "customVNET"
+      "value": "nuagenetworkstest"
     },
     "newOrExistingSubnetName": {
-      "value": "subnet1"
+      "value": "nuagesubNet"
     }
   }
 }
